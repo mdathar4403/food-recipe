@@ -9,3 +9,9 @@
     text-align: center;
     margin: 12px 0px;
 }
+.recipeTile__name:hover{
+    color: #02aff0;
+}
+.recipeTile{
+    cursor: pointer;
+}
