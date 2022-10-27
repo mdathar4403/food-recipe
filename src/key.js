@@ -1,0 +1,2 @@
+const YOUR_APP_ID  = '68479164'
+const YOUR_APP_KEY = '07caf307aea73794549a2edd9ec09388'
